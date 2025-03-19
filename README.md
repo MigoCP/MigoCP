@@ -5,7 +5,7 @@
 📍 Based in **Montréal, QC**  
 🎓 **DEC Computer Science - Programming** student at **LaSalle College**  
 📧 Reach me at: **miguelangelcp119@hotmail.com**  
-🌐 Connect on [LinkedIn](https://linkedin.com/in/miguelángel-cortés-7a5054315) | Explore my work on [GitHub](https://github.com/MigoCP)
+🌐 Connect on [LinkedIn](https://www.linkedin.com/in/miguelangelcortesp) | Explore my work on [GitHub](https://github.com/MigoCP)
 
 ---
 
