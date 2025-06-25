@@ -1,73 +1,76 @@
-# Hi, I'm Miguelángel Cortés 👋
+# Miguelángel Cortés
 
-### Ambitious Programmer | Aspiring Tech Innovator | Entrepreneur
+### Junior Developer | Software Builder | Founder, BD Outlier
 
-📍 Based in **Montréal, QC**  
-🎓 **DEC Computer Science - Programming** student at **LaSalle College**  
-📧 Reach me at: **miguelangelcp119@hotmail.com**  
-🌐 Connect on [LinkedIn](https://www.linkedin.com/in/miguelangelcortesp) | Explore my work on [GitHub](https://github.com/MigoCP)
-
----
-
-## 🚀 About Me
-I'm an ambitious computer science student with a strong foundation in **Python**, **Java**, and innovative problem-solving. I specialize in **technology integration**, **client-focused solutions**, and **strategic business consulting**. As the founder of **BD Outlier**, I leverage generative AI to revolutionize digital marketing. Always eager to learn and grow, I thrive on contributing to impactful real-world projects.
+📍 Montréal, QC
+🎓 **Graduate in Computer Science - Programming**, LaSalle College
+📧 [miguelangelcp119@hotmail.com](mailto:miguelangelcp119@hotmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/miguelangelcortesp) • [GitHub](https://github.com/MigoCP)
 
 ---
 
-## 💼 Professional Experience
+## 👨‍💻 Summary
 
-### **Founder & CEO: BD Outlier AI Enterprise Application**  
-*2024 – Present | Montréal, QC*  
-- Revolutionizing digital marketing content with generative AI solutions.  
-- Leading strategic planning and consulting for scalable e-commerce solutions.  
-- Optimizing AI-driven content generation for enhanced client engagement.
-
-### **Junior Developer: Ecksand Jewellery**  
-*2024 – Present | Montréal, QC*  
-- Developed Python automation tools for e-commerce workflow optimization.  
-- Engineered in-house apps with OpenCV and Pillow to process high-volume product images.  
-- Delivered data-driven insights to improve decision-making and operational efficiency.
+I'm a junior developer with a background in automation, AI tooling, and parametric modeling. I work across the stack to build internal tools, streamline operations, and design production-ready systems. As the founder of BD Outlier, I develop media automation pipelines for e-commerce, blending software engineering with creative tooling.
 
 ---
 
-## 🎖 Achievements
+## 💼 Work Experience
 
-- **Oxbridge AI Challenge 2024**: Secured $150,000 in Microsoft Azure credits and enhanced AI infrastructure for scalability.
-- **LaSalle Entrepreneurship Contest**: Achieved 2nd place internationally by showcasing proprietary AI software for digital marketing.
+### **Founder – BD Outlier**
 
----
+*2024 – Present | Montréal, QC*
 
-## 🛠 Skills
+* Building automation systems for 2D/3D media production in e-commerce.
+* Developing pipelines that integrate CAD tools, AI models, and CMS platforms.
+* Managing client projects and refining a scalable service-to-product model.
 
-### **Technical Skills:**
-- Programming: Python, Java  
-- AI & Creative Tools: Stable Diffusion, ComfyUI, Midjourney  
-- Design & Editing: Photoshop, Premiere Pro  
-- Web Development: Webflow
+### **Junior Developer – Ecksand Jewellery**
 
-### **Languages:**
-- English, French, Spanish (Trilingual Proficiency)
+*2024 – Present | Montréal, QC*
 
-### **Soft Skills:**
-- Leadership | Adaptability | Creativity | Resourcefulness
+* Engineered internal tools to automate product image processing and uploads.
+* Built Python apps using OpenCV and Pillow for high-volume e-commerce workflows.
+* Collaborated with the 3D design team to streamline CAD-to-production pipelines.
 
 ---
 
-## 🌱 Current Goals
+## 🏆 Notable Projects & Recognition
 
-- Expand **BD Outlier** into a leading digital marketing agency.  
-- Build scalable AI-powered tools for businesses.  
-- Develop impactful applications combining creativity and technology.
-
----
-
-## 📌 Interests
-- Entrepreneurship
-- Programming and AI
-- Gym and Fitness
-- Writing and Video Editing
-- Gaming
+* **Oxbridge AI Challenge (2024):** Earned Microsoft Azure cloud credits and infrastructure support.
+* **LaSalle Entrepreneurship Contest:** Placed 2nd internationally with a proprietary AI content pipeline.
 
 ---
 
-Feel free to explore my repositories for projects and collaborations. Let's innovate and create together!
+## 🛠 Technical Skills
+
+* **Languages:** Python, Java
+* **Tools & Libraries:** OpenCV, Pillow, Stable Diffusion, ComfyUI, Midjourney
+* **3D & Parametric Modeling:** Grasshopper (Rhino), Rhino Compute
+* **Web:** JavaScript, React, Express, Webflow
+* **Creative:** Photoshop, Premiere Pro
+
+---
+
+## 🌐 Languages
+
+* English, French, Spanish
+
+---
+
+## 📌 Current Focus
+
+* Productizing internal tools at BD Outlier
+* Expanding e-commerce 3D automation workflows
+* Integrating Rhino Compute and generative AI pipelines into production environments
+
+---
+
+## 💬 Interests
+
+* Software tooling & automation
+* Computational design
+* AI-assisted media creation
+* Fitness & writing
+
+---
