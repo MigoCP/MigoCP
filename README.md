@@ -4,7 +4,7 @@
 
 📍 Montréal, QC  
 🎓 **Graduate in Computer Science - Programming**, LaSalle College  
-📧 [miguelangelcp119@hotmail.com](mailto:miguelangelcp119@hotmail.com)  
+📧 [miguelangel@bdoutlier.com](mailto:miguelangel@bdoutlier.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/miguelangelcortesp) • [GitHub](https://github.com/MigoCP)
 
 ---
