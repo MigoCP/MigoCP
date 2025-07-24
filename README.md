@@ -3,7 +3,7 @@
 ### Junior Developer | Software Builder | Founder, BD Outlier
 
 📍 Montréal, QC  
-🎓 **Graduate in Computer Science - Programming**, LaSalle College  
+🎓 **Graduate in Computer Science**, LaSalle College  
 📧 [miguelangel@bdoutlier.com](mailto:miguelangel@bdoutlier.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/miguelangelcortesp) • [GitHub](https://github.com/MigoCP)
 
