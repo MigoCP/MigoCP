@@ -45,7 +45,7 @@ I'm a junior developer with a background in automation, AI tooling, and parametr
 ## 🛠 Technical Skills
 
 * **Languages:** Python, Java
-* **Tools & Libraries:** OpenCV, Pillow, Stable Diffusion, ComfyUI, Midjourney
+* **Tools & Libraries:** OpenCV, Pillow, Stable Diffusion, ComfyUI
 * **3D & Parametric Modeling:** Grasshopper (Rhino), Rhino Compute
 * **Web:** JavaScript, React, Express, Webflow
 * **Creative:** Photoshop, Premiere Pro
