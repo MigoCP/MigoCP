@@ -2,13 +2,13 @@
 
 Founder, BD Outlier
 
-I build production-grade automation systems for high-variation products, with a focus on parametric 3D workflows, deterministic pipelines, and applied software infrastructure.
+I build production-grade automation systems for high-variation product design and manufacturing, with a focus on parametric 3D workflows, deterministic pipelines, and applied software infrastructure.
 
 ---
 
 ## BD Outlier
 
-BD Outlier designs and deploys automation systems for manufacturing and e-commerce teams. The work centers on turning complex, error-prone production processes into scalable, repeatable systems.
+BD Outlier designs and deploys automation systems for manufacturing and 3D production teams. The work centers on turning complex, error-prone production processes into scalable, repeatable systems.
 
 This includes parametric 3D model generation, SKU automation, and tightly integrated tooling that connects CAD, data, and web interfaces into real production environments.
 
