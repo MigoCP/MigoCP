@@ -28,6 +28,6 @@ Company: [bdoutlier.com](https://www.bdoutlier.com)
 
 Email: [miguelangel@bdoutlier.com](mailto:miguelangel@bdoutlier.com)
 
-LinkedIn: [https://www.linkedin.com/in/miguelangelc](https://www.linkedin.com/in/miguelangelc)
+LinkedIn: [linkedin.com/in/miguelangelc](https://www.linkedin.com/in/miguelangelc)
 
-GitHub: [https://github.com/MigoCP](https://github.com/MigoCP)
+GitHub: [github.com/MigoCP](https://github.com/MigoCP)
