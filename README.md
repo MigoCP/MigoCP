@@ -24,7 +24,7 @@ From 2024 to June 2025, I worked as a software developer with Ecksand Jewellery.
 
 ## Contact
 
-Company: bdoutlier.com](https://www.bdoutlier.com)
+Company: [bdoutlier.com](https://www.bdoutlier.com)
 Email: [miguelangel@bdoutlier.com](mailto:miguelangel@bdoutlier.com)
 LinkedIn: [https://www.linkedin.com/in/miguelangelc](https://www.linkedin.com/in/miguelangelc)
 GitHub: [https://github.com/MigoCP](https://github.com/MigoCP)
