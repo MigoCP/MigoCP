@@ -1,33 +1,46 @@
 # Miguelángel Cortés
 
-Founder, BD Outlier
+Founder, Outlier3D · Montreal
 
-I build production-grade automation systems for high-variation product design and manufacturing, with a focus on parametric 3D workflows, deterministic pipelines, and applied software infrastructure.
+I build parametric CAD automation for high-variation manufacturing, turning product specifications into production-ready 3D files with Grasshopper, Rhino and cloud infrastructure.
 
 ---
 
-## BD Outlier
+## Outlier3D
 
-BD Outlier designs and deploys automation systems for manufacturing and 3D production teams. The work centers on turning complex, error-prone production processes into scalable, repeatable systems.
+Outlier3D builds parametric CAD automation for jewelry manufacturers and other high-variation production shops.
 
-This includes parametric 3D model generation, SKU automation, and tightly integrated tooling that connects CAD, data, and web interfaces into real production environments.
+We turn a manufacturer's product line into Grasshopper/Rhino definitions that take order specifications (finger size, stone, setting, metal) and generate print-ready production files. Each variation no longer needs to be remodeled by hand.
+
+- **Outlier3D Studio:** client-specific automation, built and maintained around a manufacturer's catalog.
+- **Outlier3D Toolkit:** the same tools packaged for independent designers working in Rhino.
+
+In production at a Montreal jewelry manufacturer, 40 to 50% of all orders run through our definitions.
+
+---
+
+## Stack
+
+- **CAD and geometry:** Grasshopper, GHPython, RhinoCommon, Rhino
+- **Infrastructure:** AWS (S3, Lambda, DynamoDB), Electron desktop distribution with auto-updates
+- **Production pipelines:** parametric ring sizing, pavé and prong settings, script-generated product rendering
 
 ---
 
 ## Background
 
-I have a computer science background and have worked hands-on building internal tooling and automation systems.
+DEC in Techniques de l'informatique, Collège LaSalle (2025).
 
-From 2024 to June 2025, I worked as a software developer with Ecksand Jewellery. Ecksand is now a client of BD Outlier.
+From 2024 to June 2025, I worked as a software developer at Ecksand Jewellery, building the parametric modeling and rendering systems behind their production. Ecksand is now an Outlier3D client.
+
+I work in English, French and Spanish.
 
 ---
 
 ## Contact
 
-Company: [bdoutlier.com](https://www.bdoutlier.com)
+Website: [outlier3d.co](https://outlier3d.co)
 
 Email: [miguelangel@bdoutlier.com](mailto:miguelangel@bdoutlier.com)
 
 LinkedIn: [linkedin.com/in/miguelangelc](https://www.linkedin.com/in/miguelangelc)
-
-GitHub: [github.com/MigoCP](https://github.com/MigoCP)
